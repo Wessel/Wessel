@@ -1,5 +1,12 @@
-- 🌱 I’m currently learning rust 
+<img src="https://avatars1.githubusercontent.com/u/29184334" align="left" width="192px" height="192px" style="border-radius: 5%;"/>
+<img align="left" width="0" height="192px" hspace="10"/>
 
+> Wessel "Wesselgame" T <discord@go2it.eu>
+
+Welcome to my GitHub profile, I don't do a lot of open source stuff, but you can find everything that is open source can be found [here](https://github.com/PassTheWessel?tab=repositories&q=&type=public).<br/>
+I'm currently in the process of learning [rust](https://rust-lang.org). Almost all of my open source projects are JS, but I know some other languages too. <br/>
+<a style="font-size:5px;">Have a nice day ;D</a>
+<br>
 
 <!--
 **PassTheWessel/PassTheWessel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
