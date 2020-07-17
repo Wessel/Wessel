@@ -1,4 +1,4 @@
-<img src="https://avatars1.githubusercontent.com/u/29184334" align="left" width="192px" height="192px" style="border-radius: 5%;"/>
+[![Stats](https://github-readme-stats.vercel.app/api?username=wessel&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <img align="left" width="0" height="192px" hspace="10"/>
 
 > Wessel "Wesselgame" T <discord@go2it.eu>
