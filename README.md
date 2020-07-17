@@ -1,7 +1,7 @@
-<p align="center">
+<div style="text-align:center">
 <img src="https://github.com/Wessel/Wessel/blob/master/assets/banner.png" width=80% height=80%>
 Wessel "Wesselgame" T <discord@go2it.eu>
-</p>
+</div>
 
 Welcome to my GitHub profile, I don't do a lot of open source stuff, but you can find everything that is open source can be found [here](https://github.com/PassTheWessel?tab=repositories&q=&type=public).<br>
 I'm currently in the process of learning [rust](https://rust-lang.org). Almost all of my open source projects are JS, but I know some other languages too. I also love animals <br/>
