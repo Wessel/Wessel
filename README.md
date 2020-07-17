@@ -1,6 +1,8 @@
 <p align="center">
 <img src="https://github.com/Wessel/Wessel/blob/master/assets/banner.png?raw=true" alt="banner" width=80% height=80%> <br>
-<h4>Welcome, I'm Wessel! 👋</h4>
+</p>
+<p align="center">
+  <h4 align="center">Welcome, I'm Wessel! 👋</h4>
 </p>
 
 Welcome to my GitHub profile, I don't do a lot of open source stuff, but you can find everything that is open source can be found [here](https://github.com/PassTheWessel?tab=repositories&q=&type=public).<br>
