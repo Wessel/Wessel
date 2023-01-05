@@ -1,41 +1,28 @@
-<p align="center">
-<img src="https://github.com/Wessel/Wessel/blob/master/assets/banner.png?raw=true" alt="banner" width=80% height=80%> <br>
-</p>
-<p align="center">
-  <h1 align="center"><img src="https://github.com/Wessel/Wessel/blob/master/assets/mona.gif" width=50> Welcome, I'm Wessel!<img src="https://github.com/Wessel/Wessel/blob/master/assets/octocat.gif" width=50></h1>
-</p>
-
-Welcome to my GitHub profile, I don't do a lot of open source stuff, but you can find everything that is open source can be found [here](https://github.com/PassTheWessel?tab=repositories&q=&type=public).<br>
-I'm currently in the process of learning [rust](https://rust-lang.org). Almost all of my open source projects are JS, but I know some other languages too. I also love animals <br/>
-<details>
-  <summary><b>More things about me!<i>(click to expand)</i></b></summary>
-
-  <br>
-
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wessel&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<p align="center">
-  <i> Connect with me! :incoming_envelope: </i>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/wessel_tip"><img src="https://github.com/Wessel/Wessel/blob/master/assets/twitter.svg" width="30px" alt="Twitter"></a>
-  <a href="mailto:discord@go2it.eu"><img src="https://github.com/Wessel/Wessel/blob/master/assets/email.svg" width="30px" alt="E-mail"></a>
-</p>
-</details>
-
-<!--
-**PassTheWessel/PassTheWessel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+profile:
+  name: Wessel
+  usernames:
+    - wessel
+    - wesselgame
+    - passthewessel
+  socials:
+    email: wessel@go2it.eu
+    github: wessel
+    discord: Wessel#0498 (https[://]discord[.]gg[/]SV7DAE9)
+  languages:
+    - Dutch
+    - English
+  notable skills:
+    - type: Programming
+      values:
+        - { prefix: js, name: JavaScript, time: 7 years, experience: proficient }
+        - { prefix: ts, name: TypeScript, time: 4 years, experience: proficient  }
+        - { prefix: py, name: Python,     time: 3 years, experience: intermediate }
+        - { prefix: c, name: C,           time: 2 years, experience: intermediate }
+        - { prefix: rs, name: Rust,       time: 1 years, experience: intermediate }
+  education:
+    currently: Computer Engineering at InHolland Alkmaar (NL)
+    past:
+      - Hoger algemeen voortgezet onderwijs
+      - Certificate in Cambridge Advanced English
+```
