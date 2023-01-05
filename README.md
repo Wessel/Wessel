@@ -16,7 +16,7 @@ profile:
     - type: Programming
       values:
         - { prefix: js, name: JavaScript, time: 7 years, experience: proficient }
-        - { prefix: ts, name: TypeScript, time: 4 years, experience: proficient  }
+        - { prefix: ts, name: TypeScript, time: 4 years, experience: proficient }
         - { prefix: py, name: Python,     time: 3 years, experience: intermediate }
         - { prefix: c,  name: C,          time: 2 years, experience: intermediate }
         - { prefix: rs, name: Rust,       time: 1 years, experience: intermediate }
