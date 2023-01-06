@@ -21,7 +21,7 @@ profile:
     past:
       - Hoger algemeen voortgezet onderwijs
       - Certificate in Cambridge Advanced English
-  notable skills:
+  knowledge:
     systems: [ Arch Linux, Rocky Linux, RedHat, Fedora, Debian, Windows ]
     - type: Programming
       entries:
